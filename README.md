@@ -14,23 +14,24 @@ Anggota Kelompok
 
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true" width="200"/>
       <br>
-        <p>Salsa Dwiyanti</p>
+      <p>Salsa Dwiyanti</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true" width="200"/>
       <br>
-        <p>Sandy Meliyawan</p>
+      <p>Sandy Meliyawan</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true" width="200"/>
-     <br>
-        <p>Listiani Lesveva Setiawan</p>
+      <br>
+      <p>Listiani Lesveva Setiawan</p>
     </td>
   </tr>
 </table>
+
 
 Teknologi Yang Digunakan
 
