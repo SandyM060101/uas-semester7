@@ -16,7 +16,7 @@ Anggota Kelompok
   <tr>
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true" width="200"/>
-      <br>Example Description 1
+      <p>Salsa Dwiyanti</p>
     </td>
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true" width="200"/>
@@ -28,11 +28,6 @@ Anggota Kelompok
     </td>
   </tr>
 </table>
-
-
-- 2169700001 : Salsa Dwiyanti
-- 2169700003 : Sandy Meliyawan
-- 2169700006 : Listiani Lesveva Setiawan
 
 Teknologi Yang Digunakan
 
