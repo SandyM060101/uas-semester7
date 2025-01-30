@@ -60,7 +60,8 @@ To set up this Laravel project, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/laravel-project.git
+git clone https://github.com/SandyM060101/uas-semester7.git
+
 cd laravel-project
 ```
 
