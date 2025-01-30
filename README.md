@@ -62,7 +62,7 @@ To set up this Laravel project, follow these steps:
 ```bash
 git clone https://github.com/SandyM060101/uas-semester7.git
 
-cd laravel-project
+cd uas-semester7
 ```
 
 ### 2. Install Dependencies
