@@ -12,9 +12,20 @@ Proyek ini dikembangkan sebagai bagian dari penilaian akhir (UAS) untuk menunjuk
 
 Anggota Kelompok
 
-| ![Image 1](https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true) | Example Description 1 |
-| ![Image 2](https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true) | Example Description 2 |
-| ![Image 3](https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true) | Example Description 3 |
+<table>
+  <tr>
+    <td><img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true" width="200"/></td>
+    <td>Example Description 1</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true" width="200"/></td>
+    <td>Example Description 2</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true" width="200"/></td>
+    <td>Example Description 3</td>
+  </tr>
+</table>
 
 - 2169700001 : Salsa Dwiyanti
 - 2169700003 : Sandy Meliyawan
