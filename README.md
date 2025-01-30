@@ -12,7 +12,7 @@ Proyek ini dikembangkan sebagai bagian dari penilaian akhir (UAS) untuk menunjuk
 
 Anggota Kelompok
 
-| ![Image 1](path/to/image1.jpg) | Example Description 1 |
+| ![Image 1](https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true) | Example Description 1 |
 | ![Image 2](path/to/image2.jpg) | Example Description 2 |
 | ![Image 3](path/to/image3.jpg) | Example Description 3 |
 
