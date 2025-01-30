@@ -16,15 +16,18 @@ Anggota Kelompok
   <tr>
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true" width="200"/>
-      <p>Salsa Dwiyanti</p>
+      <br>
+        <p>Salsa Dwiyanti</p>
     </td>
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true" width="200"/>
-      <br>Example Description 2
+      <br>
+        <p>Sandy Meliyawan</p>
     </td>
     <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true" width="200"/>
-      <br>Example Description 3
+     <br>
+        <p>Listiani Lesveva Setiawan</p>
     </td>
   </tr>
 </table>
