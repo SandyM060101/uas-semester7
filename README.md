@@ -14,24 +14,21 @@ Anggota Kelompok
 
 <table>
   <tr>
-    <td style="text-align: center;">
+    <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/25.png?raw=true" width="200"/>
-      <br>
-      <p>Salsa Dwiyanti</p>
     </td>
-    <td style="text-align: center;">
+    <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/27.png?raw=true" width="200"/>
-      <br>
-      <p>Sandy Meliyawan</p>
     </td>
-    <td style="text-align: center;">
+    <td>
       <img src="https://github.com/SandyM060101/uas-semester7/blob/main/public/img/26.png?raw=true" width="200"/>
-      <br>
-      <p>Listiani Lesveva Setiawan</p>
     </td>
   </tr>
 </table>
 
+- 2169700001 : Salsa Dwiyanti
+- 2169700003 : Sandy Meliyawan
+- 2169700006 : Listiani Lesveva Setiawan
 
 Teknologi Yang Digunakan
 
