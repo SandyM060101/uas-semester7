@@ -105,7 +105,7 @@ Then, open `http://127.0.0.1:8000` in your browser.
 ```bash
 http://127.0.0.1:8000/admin
 
-username : admin@gmail.com
+email : admin@gmail.com
 password : admin123
 ```
 
